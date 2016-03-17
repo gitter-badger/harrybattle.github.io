@@ -10,13 +10,11 @@
     <body>
         <div id="game"></div>
         <script>
-           $( document ).ready(function() {      
-                var isMobile = false;
+            var isMobile = false;
 
-                if( $('#game').css('display')=='none') {
-                    isMobile = true;       
-                }
-            });
+            if( $('#game').css('display')=='none') {
+                isMobile = true;       
+            }
         </script>
         <script>
             var game = new Game(document.getElementById("game"))
