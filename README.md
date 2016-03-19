@@ -1,6 +1,7 @@
 # Harry's Battle
 
 [![Join the chat at https://gitter.im/harrybattle/harrybattle.github.io](https://badges.gitter.im/harrybattle/harrybattle.github.io.svg)](https://gitter.im/harrybattle/harrybattle.github.io?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+[![Travis](https://img.shields.io/travis/rust-lang/rust.svg)]()
 [![GitHub license](https://img.shields.io/badge/license-CC0-blue.svg)](https://raw.githubusercontent.com/harrybattle/harrybattle.github.io/master/LICENSE.md)
 
 [![GitHub stars](https://img.shields.io/github/stars/harrybattle/harrybattle.github.io.svg)](https://github.com/harrybattle/harrybattle.github.io/stargazers)
