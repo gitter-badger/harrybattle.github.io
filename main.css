@@ -9,4 +9,9 @@ h2 {
 #cc0 {
     font-family: Verdana, Helvetica;
     font-size: 2em;
+    text-align: center;
+}
+#cc0-svg {
+    width: 2em;
+    height: 2em;
 }
