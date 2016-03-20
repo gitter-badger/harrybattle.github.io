@@ -2,7 +2,7 @@
 
 [![Gitter](https://img.shields.io/gitter/room/harrybattle/harrybattle.github.io.svg)](https://gitter.im/harrybattle/harrybattle.github.io)
 [![Build Status](https://img.shields.io/badge/build-never%20built-lightgrey.svg)](https://github.com/harrybattle/harrybattle.github.io/blob/master/BUILD_STATUS.md)
-[![GitHub license](https://img.shields.io/badge/license-CC0-blue.svg)](https://raw.githubusercontent.com/harrybattle/harrybattle.github.io/master/LICENSE.txt)
+[![GitHub license](https://img.shields.io/badge/license-CC0-blue.svg)](https://github.com/harrybattle/harrybattle.github.io/blob/masster/LICENSE.md)
 
 [![GitHub watchers](https://img.shields.io/github/watchers/harrybattle/harrybattle.github.io.svg?style=social&label=Watch)](https://github.com/harrybattle/harrybattle.github.io/watchers)
 [![GitHub stars](https://img.shields.io/github/stars/harrybattle/harrybattle.github.io.svg?style=social&label=Star)](https://github.com/harrybattle/harrybattle.github.io/stargazers)
