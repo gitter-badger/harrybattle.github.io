@@ -11,10 +11,18 @@ h2 {
 h1, p, h3, h4, h5, h6, td {
     font-family: Helvetica;
 }
+#gh-source {
+    font-size: 2.2em;
+    text-align: center;
+}
+body {
+    background-image: url(bg.svg);
+}
 #top-bar {
     position: absolute;
-    background-color: ;
+    background-color: cyan;
 }
+
 #copyright-statement {
     font-weight: 900;
     text-align: center;
