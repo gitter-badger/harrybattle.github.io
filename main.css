@@ -6,14 +6,12 @@ h2 {
     font-family: "Gunship 3D";
     font-style: italic;
 }
-#cc0 {
-    font-family: Verdana, Helvetica;
-    font-size: 2em;
-    text-align: center;
+h1, p, h3, h4, h5, h6, td {
+    font-family: Helvetica;
 }
-#cc0-img {
-    width: 176px;
-    height: 62px;
+#copyright-statement {
+    font-weight: 800;
+    text-align: center;
 }
 a {
     text-decoration: none;
