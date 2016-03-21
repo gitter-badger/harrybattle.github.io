@@ -10,8 +10,9 @@ h1, p, h3, h4, h5, h6, td {
     font-family: Helvetica;
 }
 #copyright-statement {
-    font-weight: 800;
+    font-weight: 900;
     text-align: center;
+    font-size: 1.7em;
 }
 a {
     text-decoration: none;
