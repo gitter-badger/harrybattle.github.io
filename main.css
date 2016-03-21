@@ -2,12 +2,18 @@
     font-family: 'Gunship 3D';
     src: url('gun4fs.ttf');
 }
+@import url(https://fonts.googleapis.com/css?family=Roboto:500,700);
+@import url(https://fonts.googleapis.com/css?family=Poiret+One);
 h2 {
     font-family: "Gunship 3D";
     font-style: italic;
 }
 h1, p, h3, h4, h5, h6, td {
     font-family: Helvetica;
+}
+#top-bar {
+    position: absolute;
+    background-color: ;
 }
 #copyright-statement {
     font-weight: 900;
