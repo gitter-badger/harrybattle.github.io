@@ -8,7 +8,7 @@
 [![GitHub stars](https://img.shields.io/github/stars/harrybattle/harrybattle.github.io.svg?style=social&label=Star)](https://github.com/harrybattle/harrybattle.github.io/stargazers)
 [![GitHub forks](https://img.shields.io/github/forks/harrybattle/harrybattle.github.io.svg?style=social&label=Fork)](https://github.com/harrybattle/harrybattle.github.io/fork)
 
-[![GitHub issues](https://img.shields.io/github/issues/harrybattle/harrybattle.github.io.svg?style=plastic)](https://github.com/harrybattle/harrybattle.github.io/issues)
+[![GitHub issues](https://img.shields.io/github/issues/harrybattle/harrybattle.github.io.svg?style=plastic)](https://waffle.io/harrybattle/harrybattle.github.io)
 [![Stories in Ready](https://badge.waffle.io/harrybattle/harrybattle.github.io.png?label=ready&title=Ready)](https://waffle.io/harrybattle/harrybattle.github.io)
 [![Stories in In Progress](https://badge.waffle.io/harrybattle/harrybattle.github.io.png?label=In%20Progress&title=In%20Progress)](https://waffle.io/harrybattle/harrybattle.github.io)
 [![Stories in Bugs](https://badge.waffle.io/harrybattle/harrybattle.github.io.png?label=bugs&title=Bugs)](https://waffle.io/harrybattle/harrybattle.github.io)
