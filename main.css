@@ -16,7 +16,7 @@ h1, p, h3, h4, h5, h6, td {
     text-align: center;
 }
 body {
-    background-image: url(bg.svg);
+    background-image: url(data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz4NCjxzdmcgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB3aWR0aD0iMjAwMCIgaGVpZ2h0PSIyMDAwIj4NCiAgICA8IS0tIEdyYWRpZW50IENvZGUgTWluaWZpZWQgLS0+DQogICAgPGRlZnM+PGxpbmVhckdyYWRpZW50IGlkPSJtYWluIiB4MT0iMCUiIHkxPSIwJSIgeDI9IjEwMCUiIHkyPSIxMDAlIj48c3RvcCBvZmZzZXQ9IjAlIiBzdHlsZT0ic3RvcC1jb2xvcjpyZ2IoMCwwLDkwKTtzdG9wLW9wYWNpdHk6MSIgLz48c3RvcCBvZmZzZXQ9IjEwMCUiIHN0eWxlPSJzdG9wLWNvbG9yOnJnYigwLDAsMjU1KTtzdG9wLW9wYWNpdHk6MSIgLz48L2xpbmVhckdyYWRpZW50PjwvZGVmcz4NCiAgICANCiAgICA8cmVjdCB3aWR0aD0iMjAwMCIgaGVpZ2h0PSIyMDAwIiBzdHlsZT0iZmlsbDp1cmwoI21haW4pIiAvPg0KPC9zdmc+);
 }
 
 #copyright-statement {
