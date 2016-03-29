@@ -1,6 +1,6 @@
 # Harry's Battle
 
-[![Gitter](https://img.shields.io/gitter/room/harrybattle/harrybattle.github.io.svg)](https://gitter.im/harrybattle/harrybattle.github.io)
+[![Gitter](https://img.shields.io/gitter/room/harrybattle/harrybattle.github.io.svg?color=1dce73)](https://gitter.im/harrybattle/harrybattle.github.io)
 [![Build Status](https://img.shields.io/badge/build-never%20built-lightgrey.svg)](https://github.com/harrybattle/harrybattle.github.io/blob/master/BUILD_STATUS.md)
 [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/harrybattle/harrybattle.github.io/blob/master/LICENSE.txt)
 
