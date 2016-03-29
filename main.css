@@ -18,10 +18,6 @@ h1, p, h3, h4, h5, h6, td {
 body {
     background-image: url(bg.svg);
 }
-#top-bar {
-    position: absolute;
-    background-color: cyan;
-}
 
 #copyright-statement {
     font-weight: 900;
